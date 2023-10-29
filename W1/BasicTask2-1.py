@@ -1,3 +1,5 @@
+# 用户身份验证程序
+
 while True:
     
     username = input("Enter your username: ")
